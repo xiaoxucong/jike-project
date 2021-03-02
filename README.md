@@ -1,6 +1,8 @@
 # jike-project 
 使用数据库为  mysql8.0 ,derby 没有使用过
-表结构
+
+
+# 表结构
 CREATE TABLE `user` (
   `id` bigint NOT NULL AUTO_INCREMENT,
   `username` varchar(255) NOT NULL,
